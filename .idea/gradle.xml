@@ -12,6 +12,14 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/multithreading" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/multithreading" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/sb-multithreading-exp1" />
         <option name="modules">
           <set>
